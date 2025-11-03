@@ -1,0 +1,103 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+.navbar {
+  background-color: #4287f5;
+  font-weight: 800;
+}
+
+header {
+  background:#4287f5;
+  color: white;
+  text-align: center;
+  padding: 45px;
+  border-radius: 0 0 50px 50px;
+  font-weight: 800;
+}
+
+a.btn {
+  background-color: #f4d03f;
+  color: #4287f5;
+  border: none;
+  font-weight: 700;
+  padding: 20px;
+  border-radius: 30px;
+  transition: 0.3s;
+}
+
+
+section {
+	padding: 20px;
+}
+
+body {
+  padding-top: 56px;
+  padding-bottom: 10px; 
+  font-family: sans-serif;
+  color: #333;
+  background-color: #fdfdfd;
+}
+
+h1 {
+	color: whitesmoke;
+}
+
+h2, h3, h4 {
+  font-family: sans-serif;
+  font-weight: 700;
+  color: #4287f5; 
+}
+
+p, ul, li {
+	font-family: sans-serif;
+}
+
+ul 
+{
+  list-style-type: square;
+}
+
+
+.accordion-button {
+  background-color: #f4d03f;
+  color: #4287f5;
+  font-weight: 700;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #4287f5;
+  color: white;
+}
+
+.accordion-body {
+  background-color: #e0f2fe; 
+  padding: 15px;
+  font-family: sans-serif;
+}
+
+
+.carousel {
+  width: 80%;               
+  max-width: 900px;          
+  margin: 0 auto;           
+}
+
+.carousel-item img {
+  height: 400px;              
+  object-fit: cover;         
+}
+
+.carousel-caption h5 {
+  background-color: #5a3fc0;
+  padding: 5px;
+  color: #fff;
+}
+
+
+footer {
+  background:  #4287f5 ;
+  text-align: center;
+  color: white;
+  font-weight: 800;
+}
+
